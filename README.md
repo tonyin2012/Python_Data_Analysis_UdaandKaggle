@@ -14,7 +14,7 @@
 |---|---|---
 |[TMDB电影数据集](/TMDB/TMDB-investigate.ipynb)|[Link](https://www.kaggle.com/tmdb/tmdb-movie-metadata/home)|这是做的第一个项目分析的内容，分析了电影类型的受欢迎程度，和票房
 |[A/BtestAB测试分析](/ABtest/analyze-ab-test-results-notebook-zh-0.ipynb)|None无|研究一个电子商务网站的真实产品数据，分析页面 A/B 测试中的转化能力，分析是否需要重新设计页面并基于数据提出实施建议。
-|Titanic泰坦尼克之灾|[link](https://www.kaggle.com/c/titanic)|从泰坦尼克号的数据集中构建模型预测存活率。
+|[Titanic泰坦尼克之灾](/Titanic/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B.ipynb)|[link](https://www.kaggle.com/c/titanic)|从泰坦尼克号的数据集中构建模型预测存活率。
 |Medical Appointment No Shows医院预定出席率|[Link](https://www.kaggle.com/joniarroba/noshowappointments)|使用医院数据集，分析什么样的用户容易不按时出席医院预定。
 
 ****
